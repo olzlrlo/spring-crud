@@ -4,6 +4,6 @@
 
 <configuration>
     <typeAliases>
-        <typeAlias alias="userDto" type="olzlrlo.springcrud.dto.UserDto"/>
+        <typeAlias alias="BoardVO" type="olzlrlo.springcrud.domain.BoardVO"/>
     </typeAliases>
 </configuration>
